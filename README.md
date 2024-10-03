@@ -75,4 +75,4 @@
 # 9. Hubungkan ke server
 ## Untuk melakukan ini, Anda memerlukan alamat IP atau nama domain server dan nama pengguna yang dibuat di server.
 
-
+Note : Langkah Tersebut sama bisa terhubung dan menggunakan bride
