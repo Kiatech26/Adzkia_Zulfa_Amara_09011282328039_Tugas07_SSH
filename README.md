@@ -32,7 +32,8 @@
 
 # 4. Jalankan Linuxnya, sebelum itu check terlebih dahulu koneksi dari windows ke linux.
 ##  lihat Ip Addres dengan ipconfig, atau dengan IP yang telah dibuat
-<img width="461" alt="perintah5benar" src="https://github.com/user-attachments/assets/08e95b05-b5c2-4413-aee2-af991d305191"
+ <img width="736" alt="langkah 4 benar juga dengan NAT" src="https://github.com/user-attachments/assets/b163c96e-3f5b-4f0d-9834-57d3558a887b">
+
 ##  cek koneksinya  
 
 # 5. jalankan langkah 1 Upgraded
